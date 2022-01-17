@@ -1,0 +1,35 @@
+
+.box {
+    height: 200px;
+}
+
+
+.header{
+    background: url('../hotel.jpg');
+    width: 100%;
+    height: calc(100vh - 54px);
+    display: flex;
+    
+}
+
+
+
+@media screen and (min-width: 0px) and (max-width: 576px) {
+
+   
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+   
+}
+
+
+@media screen and (min-width: 992px) {
+   
+}
